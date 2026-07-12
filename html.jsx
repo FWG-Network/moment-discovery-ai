@@ -160,7 +160,7 @@
 
         const DEFAULT_TIMEOUT = 15000; // Default timeout for LLM calls
 
-        // LLM Provider configurations
+        // LLM Provider configurations 🎯
         const providersConfig = {
             openrouter: {
                 name: "OpenRouter",
