@@ -284,7 +284,7 @@
                 }
             }
         };
-
+       // let currentProviderName = "genericAPI"; can change before 🔥
         let currentProviderName = "openrouter"; // Default provider
 
         // AIProvider Interface
