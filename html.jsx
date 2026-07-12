@@ -149,7 +149,7 @@
         // This file abstracts communication with various LLM providers.
         // It handles provider selection, model routing, error handling, and response normalization.
 
-        // Placeholder for API Keys - in a real app, these would be managed securely (e.g., environment variables, backend)
+        // Placeholder for API Keys🔥 - in a real app, these would be managed securely (e.g., environment variables, backend)
         const API_KEYS = {
             openrouter: "YOUR_OPENROUTER_API_KEY",
             googleAIStudio: "YOUR_GOOGLE_AI_STUDIO_API_KEY",
